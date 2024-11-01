@@ -122,7 +122,7 @@ const Login = () => {
           </div>
           <button
             type="submit"
-            className="w-full bg-[#000]/70 py-2 rounded text-white mt-5"
+            className="w-full bg-blue-600 py-2 rounded text-white mt-5"
           >
             Login
           </button>
